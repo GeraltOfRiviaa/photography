@@ -14,8 +14,8 @@ header:
  subtitle: "by Samuel Svoboda"
 footer:
  name: "Hey there, my name is Sam"
- bio: "I am an amateur photographer studying IT. Im base in Czech Republic"
- github: "https://github.com/GeraltOfRiviaa?tab=repositories"
+ bio: "I am an amateur photographer studying IT."
+ github: ""
 web_design: "AJ"
 # Configure which exif data to display
 # Tag is the actual exif tag, icon is a fontawesome icon. Use JSON notation without line breaks
